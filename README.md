@@ -1,2 +1,2 @@
 # LaxCheck
-ML/Ai Lacrosse Head Image Identifier
+ML/Ai Lacrosse Head Identification System with ML + Market Analysis
