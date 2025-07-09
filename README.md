@@ -1,7 +1,7 @@
 # LaxCheck
 ML/Ai Lacrosse Head Identification System with ML + Market Analysis
 
-For hosting your LacrosseCheck ZIP file while you're away, here are the best free website builders that work well with existing projects:
+For hosting your LacrosseCheck ZIP file here are the best free website builders that work well with existing projects:
 
 Top Recommendations
 1. Netlify (Best Overall)
